@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/peli"
+        android:title="Peliculas"/>
+    <item
+        android:id="@+id/AnadirPeli"
+        android:title="Añadir película"/>
+    <item
+        android:id="@+id/apps"
+
+        android:title="App"/>
+    <item
+        android:id="@+id/salir"
+        android:title="Salir"
+        android:icon="@drawable/exit"
+        app:showAsAction="always"
+
+        />
+</menu>
